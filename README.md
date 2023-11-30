@@ -1,16 +1,43 @@
-### Hi there 👋
+👋 Hi there!
+-----------------------
 
-<!--
-**iamcapote/iamcapote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Education:**
 
-Here are some ideas to get you started:
+🧠 Double Bachelor's in Psychology & Neuroscience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧬 Master's in Biology with a focus in Bioinformatics & Synthetic Biology
+
+-----------------------
+**💼 Current Roles:**
+
+🧑‍💻🐹 Crypto Community Technical Lead
+
+🐋🦈 Crypto Project Lead
+
+-----------------------
+**🌐 Expertise:**
+
+🏛️ Discourse Forum Management
+
+🖥️ Wordpress & Website Management
+
+🔍 Crypto Technical & Research Analysis
+
+🧑‍🔬 Laboratory Management & Experimental Design
+
+-----------------------
+**💡 Current Focus:**
+
+👥 Managing Crypto Communities
+
+🎮 Crafting Web3 Games
+
+-----------------------
+**🌱 Passions:**
+
+🔭 Exploring Novel Crypto Projects
+
+🧭 Seeking Adventures: Climbing, Skateboarding, Sailing, Surfing
+
+-----------------------
+📫 Contact: Telegram @iamcapote
