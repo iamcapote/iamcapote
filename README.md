@@ -12,7 +12,8 @@
 
 🧑‍💻🐹 Crypto Community Technical Lead
 
-🐋🦈 Crypto Project Lead
+👁️🔮 Founder of [ESOTERICA](https://esotericalabs.carrd.co/)
+
 
 -----------------------
 **🌐 Expertise:**
@@ -29,6 +30,8 @@
 **💡 Current Focus:**
 
 👥 Managing Crypto Communities
+
+📖 Researching & Techincal Writing
 
 🎮 Crafting Web3 Games
 
