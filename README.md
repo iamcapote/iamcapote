@@ -27,4 +27,4 @@
 </br>
 
 👁️🔮 [ESOTERICA](https://esotericalabs.carrd.co/)</br>
-📫 Contact: Telegram @iamcapote
+📫🧗🎣 Contact: Telegram or Discord @iamcapote
