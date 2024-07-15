@@ -1,46 +1,30 @@
-👋 Hi there!
------------------------
+🏄 Hello friends! 🤙
+</br>
 
-**🎓 Education:**
+**🎓 Experience:**</br>
+🧠 Dual Bachelor's in Psychology & Neuroscience.</br>
+🧬 Master's in Biology with a focus in Bioinformatics & Synthetic Biology.</br>
+🌱 Active in Decentralized Finance since 2014 </br>
 
-🧠 Double Bachelor's in Psychology & Neuroscience
+</br>
 
-🧬 Master's in Biology with a focus in Bioinformatics & Synthetic Biology
+**🌐 Skills:**</br>
+🧠 NeuroPsych-Economic Design</br>
+📝 Technical Writing</br>
+📚 Knowledge & Community Tools</br>
+💹 DeFi Strategies</br>
+🌐 Site Managing</br>
+🔬 Bioinformatics & Lab Science</br>
 
------------------------
-**💼 Current Roles:**
+</br>
 
-🧑‍💻🐹 Crypto Community Technical Lead
+**🖥️ Services:**</br>
+🔍 Project Analysis & Technical Research</br>
+📝 Comprehensive Technical Documentation</br>
+🌐 Consulting & Community Solutions</br>
+🌉 Full Web3 Ecosystem Deployment</br>
 
-👁️🔮 Founder of [ESOTERICA](https://esotericalabs.carrd.co/)
+</br>
 
-
------------------------
-**🌐 Expertise:**
-
-🏛️ Discourse Forum Management
-
-🖥️ Wordpress & Website Management
-
-🔍 Crypto Technical & Research Analysis
-
-🧑‍🔬 Laboratory Management & Experimental Design
-
------------------------
-**💡 Current Focus:**
-
-👥 Managing Crypto Communities
-
-📖 Researching & Techincal Writing
-
-🎮 Crafting Web3 Games
-
------------------------
-**🌱 Passions:**
-
-🔭 Exploring Novel Crypto Projects
-
-🧭 Seeking Adventures: Climbing, Skateboarding, Sailing, Surfing
-
------------------------
+👁️🔮 [ESOTERICA](https://esotericalabs.carrd.co/)</br>
 📫 Contact: Telegram @iamcapote
