@@ -1,14 +1,14 @@
 🏄 Hello friends! 🤙
 </br>
 
-**🎓 Experience:**</br>
+**🎓 Experience** </br>
 🧠 Dual Bachelor's in Psychology & Neuroscience.</br>
 🧬 Master's in Biology with a focus in Bioinformatics & Synthetic Biology.</br>
 🌱 Active in Decentralized Finance since 2014 </br>
 
 </br>
 
-**🌐 Skills:**</br>
+**🌐 Skills** </br>
 🧠 NeuroPsych-Economic Design</br>
 📝 Technical Writing</br>
 📚 Knowledge & Community Tools</br>
@@ -18,7 +18,7 @@
 
 </br>
 
-**🖥️ Services:**</br>
+**🖥️ Services** </br>
 🔍 Project Analysis & Technical Research</br>
 📝 Comprehensive Technical Documentation</br>
 🌐 Consulting & Community Solutions</br>
@@ -26,5 +26,8 @@
 
 </br>
 
-👁️🔮 [ESOTERICA](https://esotericalabs.carrd.co/)</br>
-📫🧗🎣 Contact: Telegram or Discord @iamcapote
+**👁️🔮 Portfolio** | [ESOTERICA](https://esotericalabs.carrd.co/)</br>
+👨‍💻 Technical Community Manager, Neuro-Economics Crypto Researcher & Systems Designer at [coreDAO.info](https://coredao.info/) </br>
+🧙 Contributed to [AlchemixV2](https://alchemix.fi/) by writing and updating technical docs. </br>
+🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/) Governance Communications Core Unit. </br>
+📫🧗🎣 Contact: Telegram or Discord @iamcapote </br>
