@@ -31,5 +31,3 @@
 🧙 Contributed to [AlchemixV2](https://alchemix.fi/) by writing and updating technical docs. </br>
 🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/) Governance Communications Core Unit. </br>
 📫🧗🎣 Contact: Telegram or Discord @iamcapote </br>
-
-![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
