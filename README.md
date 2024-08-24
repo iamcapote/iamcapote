@@ -32,8 +32,4 @@
 🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/) Governance Communications Core Unit. </br>
 📫🧗🎣 Contact: Telegram or Discord @iamcapote </br>
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 👨‍💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Visitor Count](https://profile-counter.glitch.me/{yourusername}/count.svg)
