@@ -31,6 +31,7 @@
 - 🧙 Technical Contributor at [AlchemixV2](https://alchemix.fi/). Technical Writing & DeFi Strategist.  </br>
 - 🖋️ Active contributor on [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/u/iamcapote/summary) </br>
 - 🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/) Governance Communications Core Unit. </br>
+- ✍️ Find some of my LaTeX Writings [here](https://github.com/iamcapote/LaTeX-Writings).
 
 
 📫🧗🎣 Contact: Telegram or Discord @iamcapote </br>
