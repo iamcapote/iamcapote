@@ -1,4 +1,5 @@
 🏄 Hello friends! 🤙
+
 </br>
 
 **🎓 Experience** </br>
@@ -26,12 +27,18 @@
 
 </br>
 
-**👁️🔮 Portfolio** | [ESOTERICA](https://esotericalabs.carrd.co/)</br>
+**👁️ Portfolio & Writings** 
+- 🔮 [ESOTERICA](https://esotericalabs.carrd.co/) Current Projects and portfolio </br>
 - ✍️ Find some of my LaTeX Writings [here](https://github.com/iamcapote/LaTeX-Writings).
-- 🧙 Technical Contributor at [AlchemixV2](https://alchemix.fi/). Technical Writing & DeFi Strategist.  </br>
-- 🖋️ Active contributor on [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/u/iamcapote/summary) </br>
-- 🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/) Governance Communications Core Unit. </br>
-- Previously: 👨‍💻 Technical Community Manager, Neuro-Economics Crypto Researcher & Systems Designer at [coreDAO.info](https://coredao.info/)</br>
+- 🖋️ Writing on [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/u/iamcapote/summary) </br>
 
+</br>
+
+Previously:</br>
+- 🧙 Technical Contributor at [AlchemixV2](https://alchemix.fi/) . Technical Writing & DeFi Strategist.  </br>
+- 👨‍💻 Technical Community Manager, Neuro-Economics Crypto Researcher & Systems Designer at [coreDAO.info](https://coredao.info/)</br>
+- 🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/) Governance Communications Core Unit. </br>
+
+</br>
 
 📫🧗🎣 Contact: Telegram or Discord @iamcapote </br>
