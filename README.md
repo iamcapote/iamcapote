@@ -3,7 +3,7 @@
 </br>
 
 **🎓 Experience** </br>
-- 🎓 Dual Bachelor's in Psychology & Neuroscience.</br>
+- 🤓 Dual Bachelor's in Psychology & Neuroscience.</br>
 - 🧬 Master's in Biology with a focus in Marine Genomic Conservation, Bioinformatics & Synthetic Biology.</br>
 - 💻 Active in Decentralized Finance since 2014.</br>
 
