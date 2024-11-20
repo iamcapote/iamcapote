@@ -38,7 +38,7 @@
 
 </br>
 
-Previously:</br>
+**🗃️ Previously:**</br>
 - 🧙 Technical Contributor at [AlchemixV2](https://alchemix.fi/)  — Managed technical writing and crafted DeFi content strategies.</br>
 - 🛠️ Technical Community Manager, Neuro-Economics Crypto Researcher & Systems Designer at [coreDAO.info](https://web.archive.org/web/20241001141418/https://coredao.info/) — Authored the majority of content.</br>
 - 🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/)  contributing to their Communications Core Unit.</br>
