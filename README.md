@@ -45,6 +45,6 @@
 - 🪙 Contributed Crypto Research for [MakerDAO's](https://makerdao.com/en/)  contributing to their Communications Core Unit.</br>
 
 </br>
-Feel free to reach out for collaborations or explore my work via the links above! </br>
+Feel free to reach out for collaborations or explore my work via the links above! Hablo español también.  </br>
 - 🧗🎣 Contact Telegram or Discord @iamcapote </br>
 - 📫 Email iamcapote@gmail.com </br>
